@@ -1,1 +1,2 @@
 # Security-Audit-Project-
+I used the scenario provided to establish and preform a security audit on Botium Toys. With the information provided I completed the audit and gave a detailed list of the low, intermediate and high issues that need to be fixed withing a certain time period. I also provided the company with a potential list of fines they could face if they are not compliant with regulations. 
